@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep  5 18:41:10 2019
 
-@author: Ritesh
-"""
 
 #----------------------Delete------------------------------------
 from py2neo import Graph #,Node,Relationship
