@@ -2,7 +2,7 @@
 
 #----------------------Delete------------------------------------
 from py2neo import Graph #,Node,Relationship
-graph=Graph("http://localhost:11009/db/data/",user="neo4j",password="chauhan123")
+graph=Graph("http://localhost:11009/db/data/",user="neo4j",password="db_pwd")
 #graph.delete_all()
 import tkinter as tk
 from tkinter import *
